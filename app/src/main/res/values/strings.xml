@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlightPDF</string>
+    <string name="edit_entry">Ingrese un valor</string>
+    <string name="button_send">Crear PDF</string>
+    <string name="edit_entry_time">Entre un horario hhmm</string>
+</resources>
